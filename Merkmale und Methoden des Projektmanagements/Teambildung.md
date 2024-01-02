@@ -1,5 +1,3 @@
-# Planen, Vorbereiten u Durchführen von Arbeitsaufgaben.....
-
 # Teambildung und -entwicklung
 
 ## Performance im Team

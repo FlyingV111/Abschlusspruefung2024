@@ -1,5 +1,3 @@
-# Planen, Vorbereiten u Durchführen von Arbeitsaufgaben.....
-
 # Gantt-Diagramm
 ## Was ist ein Gantt-Diagramm?
 
