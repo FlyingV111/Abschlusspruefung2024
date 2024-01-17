@@ -82,3 +82,18 @@
 * Definition von klaren Meilensteinen im Projektplan.
 * Markierung wichtiger Erfolge und Fortschritte.
 * Hilfreich für die Überwachung des Projektfortschritts.
+
+## Merkmale eines Projektes
+
+1. **Zielsetzung:**
+   - Beschreiben Sie das Hauptziel des Projekts und definieren Sie klare Ziele, die erreicht werden sollen.
+
+2. **Umfang:**
+   - Definieren Sie den Umfang des Projekts, indem Sie die Aufgaben und Aktivitäten, die im Rahmen des Projekts durchgeführt werden sollen, klar abgrenzen.
+
+3. **Zeitplan:**
+   - Erstellen Sie einen Zeitplan, der die wichtigsten Meilensteine und den Zeitrahmen für die Durchführung des Projekts festlegt.
+
+4. **Ressourcen:**
+   - Identifizieren Sie die benötigten Ressourcen, einschließlich Personal, Budget, Technologie und Ausrüstung, die für das erfolgreiche Abschließen des Projekts erforderlich sind.
+
